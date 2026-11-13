@@ -1,0 +1,7 @@
+{
+  "uuid": "hotspot-qs@clecherbauer.github.io",
+  "name": "Hotspot Quick Toggle",
+  "description": "Quick Settings toggle for a NetworkManager Wi-Fi hotspot, with a menu showing network name, password (click to copy), connected devices and a QR code.",
+  "url": "https://github.com/clecherbauer/gnome-shell-extension-hotspot-qs",
+  "shell-version": ["46"]
+}
